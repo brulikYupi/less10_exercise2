@@ -1,0 +1,42 @@
+{
+	"lesson1": [{
+		"title": "Животные",
+		"description": "Определение классов животных",
+		"required": 1,
+		"tasks": [{
+			"title": "Определить класс животного",
+			"questions": {
+				"q1": {
+					"question": "Вреблюд млекопитающий?",
+					"answer": "Да!",
+					"required": 1
+				},
+				"q2": {
+					"question": "Волк это хищник?",
+					"answer": "Да!",
+					"required": 0
+				}
+			}
+		}]
+	}],
+	"lesson2": [{
+		"title": "Растения",
+		"description": "Определение классов растений",
+		"required": 0,
+		"tasks": [{
+			"title": "Определить отдел растения",
+			"questions": {
+				"q1": {
+					"question": "Пихта это высшее растени??",
+					"answer": "Да!",
+					"required": 1
+				},
+				"q2": {
+					"question": "Гриб это растение?",
+					"answer": "Нет",
+					"required": 0
+				}
+			}
+		}]
+	}]
+}
